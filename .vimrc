@@ -12,7 +12,6 @@ Plug 'flazz/vim-colorschemes'
 Plug 'junegunn/fzf', { 'dir': '~/.fzf', 'do': './install --all' }
 Plug 'junegunn/fzf.vim'
 Plug 'moll/vim-node'
-Plug 'othree/javascript-libraries-syntax'
 
 call plug#end()
 
